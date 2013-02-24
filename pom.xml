@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.sola</groupId>
     <artifactId>sola-main</artifactId>
-    <version>2.1-20130218</version>
+    <version>2.1-20130225</version>
     <packaging>pom</packaging>
     <name>Main POM</name>
     <properties>

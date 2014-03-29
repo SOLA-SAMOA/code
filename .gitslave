@@ -5,5 +5,5 @@
 "../services" "services"
 "../boundary" "services/boundary"
 "../clients" "clients"
-"../database_samoa" "../database_samoa"
+"../database" "../database"
 "../test" "test"
